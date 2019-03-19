@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e21b7f1-8b9d-4f48-82cb-a3eb5fa8e559" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/publishing_platform/Users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/main/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/polls/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/admin/fonts/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/contents.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/contents.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/devtools/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/devtools/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/uicolor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/uicolor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/uicolor/yui/assets/yui.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/uicolor/yui/assets/yui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/black.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-3.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-4.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-5.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/galleriffic-5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/css/white.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/js/jquery.galleriffic.js" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/js/jquery.galleriffic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/js/jquery.opacityrollover.js" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/staticfiles/ckeditor/galleriffic/js/jquery.opacityrollover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/staticfiles/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publishing_platform/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publishing_platform/templates/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/templates/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="844">
+              <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/templates/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/main/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publishing_platform/main/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/publishing_platform" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/publishing_platform/templates/layout.html" />
+        <option value="$PROJECT_DIR$/publishing_platform/templates/index.html" />
+        <option value="$PROJECT_DIR$/publishing_platform/main/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="641" />
+    <option name="y" value="95" />
+    <option name="width" value="917" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="publishing_platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="publishing_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="publishing_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="publishing_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="publishing_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e21b7f1-8b9d-4f48-82cb-a3eb5fa8e559" name="Default Changelist" comment="" />
+      <created>1552940244614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552940244614</updated>
+      <workItem from="1552940245864" duration="705000" />
+      <workItem from="1552947498353" duration="1542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2247000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2556724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.11339093" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/publishing_platform/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishing_platform/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishing_platform/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishing_platform/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishing_platform/main/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishing_platform/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
