@@ -2,18 +2,31 @@ version: '3.7'
 services:
   db:
     image: postgres:10.1-alpine
+    environment:
+      SQL_ENGINE: django.db.backends.postgresql
+      SQL_DATABASE: postgres
+      SQL_USER: postgres
+      SQL_PASSWORD: postgres
+      SQL_HOST: db
+      SQL_PORT: 5432
+      DATABASE: postgres
     volumes:
       - postgres_data:/var/lib/postgresql/data/
+    networks:
+      - backend
+  
   web:
     build: .
-    container_name: syk
-    command:  bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000 && gunicorn mysite.wsgi — bind 0.0.0.0:8001"
+    command: gunicorn mysite.wsgi:application --bind 0.0.0.0:8000
     volumes:
-      - ./publishing_platform:/publishing_platform
+      - ./publishing_platform/:/publishing_platform
+      - static_volume:/publishing_platform/staticfiles
     depends_on:
       - db
-    ports:
-      - "8000:8000"
+    expose:
+      - 8000
+    networks:
+      - backend
     tty: true
 
   db-admin:
@@ -25,16 +38,23 @@ services:
       - db
     ports:
       - "8080:80"
+    networks:
+      - backend
   nginx:
-    image: nginx:latest
+    build: ./nginx
     ports:
        - 8088:80
     volumes:
-       - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+       - static_volume:/publishing_platform/staticfiles
+
     depends_on:
        - web
-
+    networks:
+       - backend
+networks:
+    backend:
+      driver: bridge
 volumes:
    postgres_data:
-
+   static_volume:
   
