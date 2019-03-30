@@ -45,7 +45,7 @@ services:
     ports:
        - 8088:80
     volumes:
-       - static_volume:/publishing_platform/staticfiles
+       - ./publishing_platform:/publishing_platform
 
     depends_on:
        - web
