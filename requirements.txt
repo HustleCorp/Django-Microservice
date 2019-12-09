@@ -24,7 +24,7 @@ requests-oauthlib==1.2.0
 six==1.12.0
 social-auth-app-django==3.1.0
 social-auth-core==3.1.0
-urllib3==1.24.1
+urllib3==1.24.2
 celery==4.2.1
 amqp==2.4.2
 billiard==3.5.0.5
