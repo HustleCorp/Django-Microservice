@@ -2,7 +2,7 @@ autopep8==1.4.3
 certifi==2019.3.9
 chardet==3.0.4
 defusedxml==0.5.0
-Django==2.1.11
+Django==2.2.24
 django-annoying==0.10.4
 django-ckeditor==5.6.1
 django-crispy-forms==1.7.2
@@ -32,7 +32,7 @@ celery==4.2.1
 certifi==2019.3.9
 chardet==3.0.4
 defusedxml==0.5.0
-Django==2.1.11
+Django==2.2.24
 gunicorn==19.9.0
 idna==2.8
 kombu==4.4.0
