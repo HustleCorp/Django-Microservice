@@ -12,7 +12,7 @@ django-js-asset==1.2.2
 idna==2.8
 MarkupSafe==1.1.1
 oauthlib==3.0.1
-Pillow==5.4.1
+Pillow==9.3.0
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
 pycodestyle==2.5.0
@@ -38,7 +38,7 @@ idna==2.8
 kombu==4.4.0
 MarkupSafe==1.1.1
 oauthlib==3.0.1
-Pillow==5.4.1
+Pillow==9.3.0
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
 pycodestyle==2.5.0
